@@ -1,0 +1,4 @@
+---
+applications:
+- name: carsharing-reservation-client
+  memory: 128M

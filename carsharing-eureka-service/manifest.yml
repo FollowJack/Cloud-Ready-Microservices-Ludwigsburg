@@ -1,0 +1,4 @@
+---
+applications:
+- name: carsharing-eureka-service
+  memory: 128M

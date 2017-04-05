@@ -1,0 +1,4 @@
+---
+applications:
+- name: carsharing-config-service
+  memory: 128M
